@@ -30,7 +30,7 @@ namespace Export
 
         private const string ARG_INPUT = "-input";
         private const string ARG_FILTER = "-filter";
-        private const string ARG_OUTPUT_DIR = "-outdir";
+        private const string ARG_OUTPUT_DIR = "-output";
         private const string ARG_FORMAT = "-format";
 
         private const string EDRW_FORMAT = ".e";
